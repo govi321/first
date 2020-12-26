@@ -1,1 +1,3 @@
  this is a bugfixfile.txt
+
+this is bugix file second line
