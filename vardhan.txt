@@ -1,4 +1,10 @@
 this is a vardhan.txt file
+<<<<<<< HEAD
 
 this extra line 
 this is one more extra line 
+=======
+this something line
+this nothing line '
+this something and nothing line 
+>>>>>>> e9c85b017a638881501b913ec7771a88bc267237
