@@ -11,4 +11,8 @@ this is fifth line
 
 this is sixth line
 
+<<<<<<< HEAD
 this is undo line
+=======
+this is seventh line 
+>>>>>>> 84b726cc56f6a23f1d908fb42498936865cfdfd0
